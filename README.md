@@ -1,9 +1,12 @@
 # VBA-combineAllWorksheets
 
+## Start File
+![image](https://user-images.githubusercontent.com/52837649/90320828-4d72dc80-df12-11ea-9e31-04a5751a46dc.png)
 
+## Finished File
 ![image](https://user-images.githubusercontent.com/52837649/90322774-4950ba00-df26-11ea-9a80-a70e8a41097b.png)
 
-
+## Code
 ```
 Sub combine()
     Sheets.Add.Name = "Combined_Data"
